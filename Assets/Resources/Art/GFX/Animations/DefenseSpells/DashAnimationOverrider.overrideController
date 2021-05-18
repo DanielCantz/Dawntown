@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DashAnimationOverrider
+  m_Controller: {fileID: 9100000, guid: b083c8cd233ede543aa4c5efeb138453, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3e1be6582f240494c8f6f556567e4d38, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 24650be35c00be042b582c239b26c8de, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2f87b6f0b4fa9ea4f8faef2d5e8fadcc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9c7b28b05a2df4a46b87010442bc2fba, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 27a0047df9cf11c4395672ddff6b2574, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2adc5b4fa4c785041b70056567becee6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 18129a808871c5342a13420085ab79a4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 18129a808871c5342a13420085ab79a4, type: 2}

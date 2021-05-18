@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3e5fc41b5773148b4446ccc8bcfc32, type: 3}
+  m_Name: 0250
+  m_EditorClassIdentifier: 
+  lineID: 0250
+  nextLineID: 0260
+  role: 1
+  waitTimeInMS: 0
+  subtileGer: "Wunderbar, totale Zerst\xF6rung - genau, wie ich es geplant habe "
+  subtileEng: 'Wonderful, total destruction - just like I planned '
+  lineAudio: {fileID: 8300000, guid: 1c06ba399dfb5804887973e8ba68398b, type: 3}

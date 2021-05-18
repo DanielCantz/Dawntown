@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{8ece6c9c-6922-4cac-9167-0045779a0ca9}">
+		<property name="assetPath">
+			<value>Nike_Schlagen_07.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.32166666666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8de2ebae-931c-46cf-b97d-0ba3557f3586}</destination>
+		</relationship>
+	</object>
+</objects>

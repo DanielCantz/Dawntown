@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3e5fc41b5773148b4446ccc8bcfc32, type: 3}
+  m_Name: 0710
+  m_EditorClassIdentifier: 
+  lineID: 0710
+  nextLineID: 0720
+  role: 1
+  waitTimeInMS: 0
+  subtileGer: "\u2026 "
+  subtileEng: "\u2026 "
+  lineAudio: {fileID: 8300000, guid: e2efe8631fc29184dada111b85800b37, type: 3}

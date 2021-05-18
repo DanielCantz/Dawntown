@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{22bb4a49-b35b-462c-954e-f6cb29190df4}">
+		<property name="assetPath">
+			<value>SankFX_Wusch_Mid_02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.36145833333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8de2ebae-931c-46cf-b97d-0ba3557f3586}</destination>
+		</relationship>
+	</object>
+</objects>

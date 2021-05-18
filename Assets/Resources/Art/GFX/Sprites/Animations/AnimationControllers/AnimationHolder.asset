@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d729e088c99f5e545b7c2dd180ee9a37, type: 3}
+  m_Name: AnimationHolder
+  m_EditorClassIdentifier: 
+  _bladeBarrel: {fileID: 22100000, guid: 737143dcee6eb934c9269a95a6da0102, type: 2}
+  _bladeBlade: {fileID: 22100000, guid: 88a27bad795d9d244acc7507651d9576, type: 2}
+  _bladeMagic: {fileID: 22100000, guid: 8de4606513cc82e4caeb0cb574532720, type: 2}
+  _magicBarrel: {fileID: 22100000, guid: 2849ddc799a893c4185a6c6ad1656ce6, type: 2}
+  _magicBlade: {fileID: 22100000, guid: c6202b841f088a4488e21fef14580051, type: 2}
+  _magicMagic: {fileID: 22100000, guid: a9a9bbb313afdb240aca448ed658ecc7, type: 2}
+  _barrelBarrel: {fileID: 22100000, guid: b4557f32401c995409047463311f45e6, type: 2}
+  _barrelBlade: {fileID: 22100000, guid: 97672eaae7bd77e4da877448d8a138c7, type: 2}
+  _barrelMagic: {fileID: 22100000, guid: be973fc74a76abe4a9af4aa852a4813f, type: 2}

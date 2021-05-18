@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{12403047-e78f-4955-bbdf-568a5a63d28f}">
+		<property name="assetPath">
+			<value>Mini_Impact_65.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.56264583333333329</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8de2ebae-931c-46cf-b97d-0ba3557f3586}</destination>
+		</relationship>
+	</object>
+</objects>

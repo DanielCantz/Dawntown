@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3e5fc41b5773148b4446ccc8bcfc32, type: 3}
+  m_Name: 0140
+  m_EditorClassIdentifier: 
+  lineID: 0140
+  nextLineID: 0150
+  role: 1
+  waitTimeInMS: 0
+  subtileGer: "Als dein Mentor sollte ich dich daf\xFCr r\xFCgen. Als Wissenschaftler
+    hingegen finde ich deine Situation hier ganz interessant. "
+  subtileEng: 'As your mentor, I should reprimand you for that. As a scientist, I
+    find your situation here quite interesting. '
+  lineAudio: {fileID: 8300000, guid: 5e95db0e31091004fbe2c2ecdddb6aa0, type: 3}

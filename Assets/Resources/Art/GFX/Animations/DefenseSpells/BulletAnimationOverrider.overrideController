@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BulletAnimationOverrider
+  m_Controller: {fileID: 9100000, guid: b083c8cd233ede543aa4c5efeb138453, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3e1be6582f240494c8f6f556567e4d38, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9cb735c97c2dd3c43abda0e29dda7021, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2f87b6f0b4fa9ea4f8faef2d5e8fadcc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6c79e79b7a24b16428f321e8975e54ca, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 27a0047df9cf11c4395672ddff6b2574, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 09cb86b1ee0c8554e85551ca3b82c153, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 18129a808871c5342a13420085ab79a4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 08144e05469debb41bf30fb7e39218c2, type: 2}

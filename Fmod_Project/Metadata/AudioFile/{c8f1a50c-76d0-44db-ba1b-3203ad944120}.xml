@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{c8f1a50c-76d0-44db-ba1b-3203ad944120}">
+		<property name="assetPath">
+			<value>SankFX_Step_Spider_01_A.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.096895833333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8de2ebae-931c-46cf-b97d-0ba3557f3586}</destination>
+		</relationship>
+	</object>
+</objects>

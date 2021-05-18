@@ -1,0 +1,14 @@
+Graphics:
+	Over all color pallet
+	HUD:
+		Element Icon
+		Weapon Icon
+		Wildcard Icon
+		Inventory Borders
+		ItemSlot borders
+	Charakter:
+		Idle Animation
+		Walk Animation (default, slowed)
+
+Sounds:
+	merge sounds (success, fail)

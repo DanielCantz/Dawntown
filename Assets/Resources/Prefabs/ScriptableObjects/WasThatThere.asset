@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3ef8fe87a2d1fd4ea8590147d023d8a, type: 3}
+  m_Name: WasThatThere
+  m_EditorClassIdentifier: 
+  _tier: 3
+  Name: WasThatThere
+  _effectMultiplier: 0.2
+  _wildcardType: 1
+  _tierStats:
+  - _critChance: 0.1
+    _invisibilityChance: 0.1
+  - _critChance: 0.2
+    _invisibilityChance: 0.2
+  - _critChance: 0.3
+    _invisibilityChance: 0.3

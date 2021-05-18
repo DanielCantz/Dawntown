@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3e5fc41b5773148b4446ccc8bcfc32, type: 3}
+  m_Name: 0720
+  m_EditorClassIdentifier: 
+  lineID: 0720
+  nextLineID: 0730
+  role: 0
+  waitTimeInMS: 0
+  subtileGer: "Okay\u2026. Wie w\xE4r's mit\u2026 "
+  subtileEng: "Okay\u2026. How about\u2026 "
+  lineAudio: {fileID: 8300000, guid: 1980c5297f9f6ca40a7f01c503e2b50f, type: 3}

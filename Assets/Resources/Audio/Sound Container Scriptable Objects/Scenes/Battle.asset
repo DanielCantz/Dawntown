@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07421d46b16a89b42aefc869fbc32562, type: 3}
+  m_Name: Battle
+  m_EditorClassIdentifier: 
+  sceneName: Battle
+  soundEvents:
+  - {fileID: 11400000, guid: 251beb2e0a267a04e8144aaaf22cb4c7, type: 2}
+  - {fileID: 11400000, guid: 8834a788266d7524486e3eadfc5d4db1, type: 2}
+  - {fileID: 11400000, guid: fc87f5d7d98643043badb2853471e45c, type: 2}
+  - {fileID: 11400000, guid: d1a8cedba8c828542b20cc2e0ea9ab6e, type: 2}
+  - {fileID: 11400000, guid: fd53447d45243f246b5dad0fe0b40230, type: 2}
+  - {fileID: 11400000, guid: 33ef9cedb44237b43afc012a6b5bcad9, type: 2}
+  - {fileID: 11400000, guid: 83eac7456c5679646a273f29068ecf5e, type: 2}
+  - {fileID: 11400000, guid: 318991baa55224b4a985fdc5a7a81513, type: 2}
+  - {fileID: 11400000, guid: 816817330666ef54db7bd7af673eaf05, type: 2}
+  - {fileID: 11400000, guid: f55f51a1507128547baba4608b03d3bc, type: 2}
+  - {fileID: 11400000, guid: 30b46bc035bd74441b7440ebb0839001, type: 2}
+  - {fileID: 11400000, guid: 3e18c3d1102d4e5449a246cb9bdd7f94, type: 2}
+  - {fileID: 11400000, guid: 03f6033fca3a64646a8b1e999fc1bce3, type: 2}

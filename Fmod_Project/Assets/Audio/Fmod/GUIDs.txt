@@ -1,0 +1,7 @@
+{3e44c758-d368-4a16-b5f4-2932249ed339} bank:/Master
+{a659e78c-a213-0654-33bd-a3ccd56dd5a1} bank:/Master.strings
+{88fb2999-1f9f-4b93-854c-6e7bd971b3a2} bus:/
+{3caa81a7-9ef3-480a-90d4-e3332533d46e} bus:/Reverb
+{00fa8cd9-8dab-44e2-be26-788c848ecfc9} event:/Atmo/Atmo
+{a695c357-c011-4cbc-9787-76a29aaa4b81} event:/Movement
+{d38b5522-e54d-404a-aa05-06a785e21315} parameter:/Height

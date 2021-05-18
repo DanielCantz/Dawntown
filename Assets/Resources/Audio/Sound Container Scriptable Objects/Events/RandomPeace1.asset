@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecd4b08621505c4992cd01404372a8f, type: 3}
+  m_Name: RandomPeace1
+  m_EditorClassIdentifier: 
+  eventName: RandomPeace1
+  soundLines:
+  - {fileID: 11400000, guid: 2bff5c403c033274ea219788e68b41ba, type: 2}
+  - {fileID: 11400000, guid: 6d278265df01cc0409c7044d619e7d00, type: 2}
+  - {fileID: 11400000, guid: fa3fcc7180da9d34cb206ce8f872d13c, type: 2}
+  - {fileID: 11400000, guid: 37aa7841843d24e4bb3b2dcc05463b3d, type: 2}
+  - {fileID: 11400000, guid: 296290907f2625b47855dcdf3c4e3db1, type: 2}
+  - {fileID: 11400000, guid: 4ef34ac5fbdc92c408473575d8346775, type: 2}
+  - {fileID: 11400000, guid: 6498dd4c77d44dd44923dbed1bb36a2e, type: 2}

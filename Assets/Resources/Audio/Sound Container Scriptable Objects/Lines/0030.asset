@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3e5fc41b5773148b4446ccc8bcfc32, type: 3}
+  m_Name: 0030
+  m_EditorClassIdentifier: 
+  lineID: 0030
+  nextLineID: 0040
+  role: 0
+  waitTimeInMS: 0
+  subtileGer: "Jetzt muss ich mich auch noch vom 'gro\xDFen' Timot\xE9e Dart belehren
+    lassen. Das hat mir noch gefehlt. "
+  subtileEng: "Now I also have to be lectured by the 'great' Timot\xE9e Dart. That's
+    the last thing I need. "
+  lineAudio: {fileID: 8300000, guid: b93c79676bd67ac4195ae2c7c49a176c, type: 3}

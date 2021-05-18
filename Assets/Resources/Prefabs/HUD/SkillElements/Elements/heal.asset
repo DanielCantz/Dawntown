@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 384377017e58f6541b0db43a84079e33, type: 3}
+  m_Name: heal
+  m_EditorClassIdentifier: 
+  _name: Heal
+  _englishDescription:
+    _title: Heal
+    _type: 
+    _descriptionOffensive: 
+    _descriptionDefensive: 
+  _germanDescription:
+    _title: Heilung
+    _type: 
+    _descriptionOffensive: 
+    _descriptionDefensive: 
+  _sprite: {fileID: 21300000, guid: d2baf3f070f66e344b54f34d213d6ce9, type: 3}
+  _background: {fileID: 21300000, guid: 45a95ce4bc10293468f66bda36c05280, type: 3}
+  _color: {r: 0, g: 0, b: 0, a: 1}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3e5fc41b5773148b4446ccc8bcfc32, type: 3}
+  m_Name: 0480
+  m_EditorClassIdentifier: 
+  lineID: 0480
+  nextLineID: End
+  role: 1
+  waitTimeInMS: 0
+  subtileGer: "Deine Prothese ist wirklich eines meiner besten Meisterwerke. Die
+    Modifikatoren machen sie \xE4u\xDFerst m\xE4chtig. "
+  subtileEng: 'Your prosthesis is really one of my greatest masterpieces. The modifiers
+    make it extremely powerful. '
+  lineAudio: {fileID: 8300000, guid: 20ea1f2e57c7eb24ea96c36f2e7e0306, type: 3}

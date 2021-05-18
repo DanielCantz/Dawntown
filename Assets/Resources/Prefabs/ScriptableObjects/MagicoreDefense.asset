@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 568358484392d6240a23974199b8def8, type: 3}
+  m_Name: MagicoreDefense
+  m_EditorClassIdentifier: 
+  _tier: 1
+  Name: New Ability
+  aSound: {fileID: 8300000, guid: 5f3901b58f5ca8946bc9acc1018f1229, type: 3}
+  fmodEventAttack: 
+  fmodEventDefense: 
+  aBaseCoolDown: 2.5
+  _weaponMod: 2
+  _worldObject: {fileID: 5242810154668196656, guid: fdefe71279de21e4b8fbcece191a9d0a,
+    type: 3}
+  _baseLifetime: 1
+  _range: 5
+  _basePlacementOffset: 0.1
+  _tierStats:
+  - _scale: 1
+    _lifetime: 2
+  - _scale: 1.5
+    _lifetime: 3
+  - _scale: 2
+    _lifetime: 4

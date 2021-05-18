@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3e5fc41b5773148b4446ccc8bcfc32, type: 3}
+  m_Name: 0550
+  m_EditorClassIdentifier: 
+  lineID: 0550
+  nextLineID: 0560
+  role: 0
+  waitTimeInMS: 0
+  subtileGer: 'Ich frag mich bis heute, warum du mich damals nicht sofort weggejagt
+    hast, als ich das erste Mal in deine Werkstatt kam. '
+  subtileEng: 'I still wonder why you didn''t chase me away the first time I came
+    into your workshop. '
+  lineAudio: {fileID: 8300000, guid: 971c6eecc8ebc4b429384c15da620851, type: 3}

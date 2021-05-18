@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf287d03f5e4fd14486381a44ee2eef9, type: 3}
+  m_Name: LookClosely
+  m_EditorClassIdentifier: 
+  _tier: 1
+  Name: LookClosely
+  _effectMultiplier: 0.2
+  _wildcardType: 0
+  _aimBotTolerance: 5
+  _tierStats:
+  - _barrelSpread: 0.8
+    _bladeSpread: 0.5
+    _aimDistance: 1
+    _placementOffset: 1
+  - _barrelSpread: 0.6
+    _bladeSpread: 1
+    _aimDistance: 1.8
+    _placementOffset: 0.5
+  - _barrelSpread: 0.4
+    _bladeSpread: 1.5
+    _aimDistance: 3.5
+    _placementOffset: 0.1

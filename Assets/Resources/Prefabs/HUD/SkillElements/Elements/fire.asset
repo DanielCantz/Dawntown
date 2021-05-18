@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 384377017e58f6541b0db43a84079e33, type: 3}
+  m_Name: fire
+  m_EditorClassIdentifier: 
+  _name: Fire Element
+  _englishDescription:
+    _title: Fire Element
+    _type: Element
+    _descriptionOffensive: Causes fire damage with the chance to put the enemies
+      on fire, dealing damage over a longer time.
+    _descriptionDefensive: Causes fire damage within the effect area that sets them
+      on fire, dealing damage over a longer time.
+  _germanDescription:
+    _title: Feuer Element
+    _type: Element
+    _descriptionOffensive: "Verursache Feuerschaden mit der Chance den Gegner in
+      Brand zu stecken und ihm Schaden \xFCber Zeit zu verursachen."
+    _descriptionDefensive: "Verursache Feuerschaden in einem gewissen Bereich mit
+      der Chance den Gegner in Brand zu stecken und ihm Schaden \xFCber Zeit zu verursachen."
+  _sprite: {fileID: 21300000, guid: 708c077a63138fc43894843f6be7ee63, type: 3}
+  _background: {fileID: 21300000, guid: b7a89af2d26d82e42a4b865e669552d5, type: 3}
+  _color: {r: 0.5176471, g: 0.27450982, b: 0.27450982, a: 1}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3e5fc41b5773148b4446ccc8bcfc32, type: 3}
+  m_Name: 0800
+  m_EditorClassIdentifier: 
+  lineID: 0800
+  nextLineID: 0810
+  role: 0
+  waitTimeInMS: 0
+  subtileGer: "Warum baut die Regierung die Artefakte in die Demons ein? Das erscheint
+    mir unverh\xE4ltnism\xE4\xDFig m\xE4chtig f\xFCr eine Stadtwache. "
+  subtileEng: 'Why does the government put the artifacts in the demons? It seems
+    disproportionately powerful for a city guard. '
+  lineAudio: {fileID: 8300000, guid: 1dbf38b754d91104e9960e606d6ab83f, type: 3}

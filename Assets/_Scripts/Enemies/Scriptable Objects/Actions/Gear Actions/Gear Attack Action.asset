@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae3a704a9c878b841a67caf1b92cdaa6, type: 3}
+  m_Name: Gear Attack Action
+  m_EditorClassIdentifier: 
+  ThrowObstacles:
+  - {fileID: 5589380068715631046, guid: f8c0ea996fbebc9438548d693a7ce92e, type: 3}
+  projectileAmount: 10
+  forceMin: 500
+  forceMax: 1000
+  strayFactor: 5

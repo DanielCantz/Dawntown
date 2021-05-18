@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f61a5ffddd56e845b2bb9d6e96c3b18, type: 3}
+  m_Name: Shooting Ice Stats
+  m_EditorClassIdentifier: 
+  element: 3
+  StartingHealth: 80
+  aggroRange: 20
+  looseAggroRange: 30
+  rotationSpeed: 3
+  idleWalkAround: 1
+  idleChangePositionMin: 0
+  idleChangePositionMax: 15
+  IdleAreaSize: 15
+  Weapon: {fileID: 1184089456213296183, guid: 2570665990c347c4587936ca2135a973, type: 3}
+  attackRate: 2
+  reloadTime: 4
+  bulletAmount: 5
+  attackRange: 20
+  shootingInaccuracy: 2
+  duration: 1
+  slowAmount: 0.5
+  damage: 3

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64baa0df03ff0e14bb0cf4e9ff60c790, type: 3}
+  m_Name: LightningElement
+  m_EditorClassIdentifier: 
+  _tier: 2
+  _baseDuration: 0.5
+  _element: 2
+  _tierStats:
+  - _value: 1
+    _chance: 0.15
+    _delay: 1
+    _strength: 1.5
+  - _value: 1.5
+    _chance: 0.2
+    _delay: 0.75
+    _strength: 2.25
+  - _value: 2
+    _chance: 0.3
+    _delay: 0.5
+    _strength: 3

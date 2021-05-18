@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3e5fc41b5773148b4446ccc8bcfc32, type: 3}
+  m_Name: 0190
+  m_EditorClassIdentifier: 
+  lineID: 0190
+  nextLineID: 0200
+  role: 1
+  waitTimeInMS: 0
+  subtileGer: "Na gut, wir m\xFCssen an anst\xE4ndige Artefakte f\xFCr eine weitere
+    Zeitreise kommen - das wird nicht leicht. "
+  subtileEng: 'Alright, we need to get some proper artifacts for another time journey
+    - it won''t be easy. '
+  lineAudio: {fileID: 8300000, guid: 30c4c550f56728c46988447940e54c68, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3e5fc41b5773148b4446ccc8bcfc32, type: 3}
+  m_Name: 0010
+  m_EditorClassIdentifier: 
+  lineID: 0010
+  nextLineID: End
+  role: 0
+  waitTimeInMS: 0
+  subtileGer: "Warum verdammt nochmal funktioniert das Ding nicht? Gl\xFCckwunsch,
+    Estella! Sieht so aus, als sitzt du hier fest. "
+  subtileEng: 'Why the hell is this thing not working? Congratulations, Estella!
+    Looks like you''re stuck here. '
+  lineAudio: {fileID: 8300000, guid: f64eb13cab7a03f4a93f61189db5a3a9, type: 3}

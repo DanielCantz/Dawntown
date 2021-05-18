@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3e5fc41b5773148b4446ccc8bcfc32, type: 3}
+  m_Name: 0100
+  m_EditorClassIdentifier: 
+  lineID: 0100
+  nextLineID: 0110
+  role: 1
+  waitTimeInMS: 0
+  subtileGer: "Dass du dich damit schnurstracks in einer Zeitschleife verf\xE4ngst,
+    h\xE4tte ich dir vorher sagen k\xF6nnen. "
+  subtileEng: 'I could have told you right away that you''d get caught up in a time
+    loop immediately. '
+  lineAudio: {fileID: 8300000, guid: 4fd4ad42d46d11b4b917d9b27c1a9082, type: 3}

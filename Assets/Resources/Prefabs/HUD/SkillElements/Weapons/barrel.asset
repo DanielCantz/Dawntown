@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 384377017e58f6541b0db43a84079e33, type: 3}
+  m_Name: barrel
+  m_EditorClassIdentifier: 
+  _name: Barrel
+  _englishDescription:
+    _title: Barrel
+    _type: Weapon
+    _descriptionOffensive: Shoot several projectiles at long range.
+    _descriptionDefensive: Jump into the air and leave an effect area puddle that
+      inflicts element damage to enemies.
+  _germanDescription:
+    _title: Schrotflinte
+    _type: Waffe
+    _descriptionOffensive: "Schie\xDFe einige Kugeln, die sich vor dir verteilen."
+    _descriptionDefensive: "Springe in Laufrichtung und lasse eine Pf\xFCtze hinter
+      dir, die den Effekt des Elements ausl\xF6st bei Kontakt."
+  _sprite: {fileID: 21300000, guid: 592afc89d014ad342880129bbcc81375, type: 3}
+  _background: {fileID: 0}
+  _color: {r: 1, g: 1, b: 1, a: 1}

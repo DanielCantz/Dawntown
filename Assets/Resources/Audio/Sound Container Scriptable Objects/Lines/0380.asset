@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3e5fc41b5773148b4446ccc8bcfc32, type: 3}
+  m_Name: 0380
+  m_EditorClassIdentifier: 
+  lineID: 0380
+  nextLineID: 0390
+  role: 1
+  waitTimeInMS: 0
+  subtileGer: "\xC4h, ja.... Ich bin mir sicher, wenn wir erstmal eine st\xF6rungsfrei
+    laufende Zeitmaschine haben, werden wir deinen Bruder ohne gr\xF6\xDFere Komplikationen
+    zur\xFCckholen k\xF6nnen. "
+  subtileEng: "Uh, yes\u2026 I'm sure once we have a properly functioning time machine,
+    we'll be able to get your brother back without any major complications. "
+  lineAudio: {fileID: 8300000, guid: 0d6913f31ee648f43a309c99576d6e58, type: 3}

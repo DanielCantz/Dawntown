@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3e5fc41b5773148b4446ccc8bcfc32, type: 3}
+  m_Name: 0460
+  m_EditorClassIdentifier: 
+  lineID: 0460
+  nextLineID: End
+  role: 1
+  waitTimeInMS: 0
+  subtileGer: "Dir ist bestimmt nicht entgangen, dass deine Gegner Schwachstellen
+    haben, an denen Sie leichter anzugreifen sind\u2026 oder? "
+  subtileEng: 'Surely, you have noticed that your opponents have weaknesses that
+    make them easier to attack, right? '
+  lineAudio: {fileID: 8300000, guid: 2a26a04e070397e44b58cd4ff151cba8, type: 3}
